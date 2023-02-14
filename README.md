@@ -11,6 +11,7 @@ To do list:
 - Remultithread everything
 
 Current Files:
+
 -Player
   + Used to choose video input, pausing, framerate, and output
   + Can use more user friendly features for testing
