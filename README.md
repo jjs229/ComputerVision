@@ -12,12 +12,12 @@ To do list:
 
 Current Files:
 
--Player
+- Player
   + Used to choose video input, pausing, framerate, and output
   + Can use more user friendly features for testing
--Detector
+- Detector
   + Parent Detector Class
--Color Detector
+- Color Detector
   + Can currently detect one color. Should add functions to easily detect any color input
   + Color detectors are not super useful
 - Motion Detector
